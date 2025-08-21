@@ -78,8 +78,4 @@ views/                  # EJS templates
 - `GET /:shortId` — Redirect to original URL
 - `GET /url/analytics/:shortId` — Get analytics for a short URL
 
-## License
-ISC
 
----
-*Generated on August 21, 2025*
